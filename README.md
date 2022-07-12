@@ -1,3 +1,3 @@
 # mondyjosh.github.io
 
-Hello world!
+This is the project that provides the content for https://mondyjosh.github.io/. Enjoy!
